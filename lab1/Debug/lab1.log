@@ -1,0 +1,7 @@
+﻿  lab1.cpp
+C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\lab1\lab1.cpp(18,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\lab1\lab1.cpp(30,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\lab1\lab1.cpp(33,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\lab1\lab1.cpp(66,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\lab1\lab1.cpp(77,16): warning C4018: <: несоответствие типов со знаком и без знака
+  lab1.vcxproj -> C:\Users\asapp\Documents\Visual Studio 2019\lab1\lab1\Debug\lab1.exe
